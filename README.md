@@ -1,4 +1,4 @@
-## Hi there 👋
+## ABOUT
 My name is Erastus Mueke and I am a freshman to the programming industry. 
 I recently joined the International Youth Fellowship training program.
 I am currently learning computer programming and my main aim is to become a software engineer with interest in learning Frontend and Backend technologies.
