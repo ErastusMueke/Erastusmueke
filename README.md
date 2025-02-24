@@ -10,27 +10,39 @@ Weeks 1-3
 Introduction to Web Development and Linux
 
 Web Development Basics
+
 Linux Commands
+
 HTML & CSS Fundamentals
-Weeks 4-5
+
+# Weeks 4-5
 Advanced HTML, CSS, and JavaScript
 
 Semantic HTML
+
 CSS Layout
+
 JavaScript Basics
-Weeks 6-9
+
+# Weeks 6-9
 JavaScript and Front-End Frameworks
 
 Advanced JavaScript
+
 React Fundamentals
+
 State Management
-Weeks 10-12
+
+# Weeks 10-12
 Node.js and Backend Development
 
 Node.js Basics
+
 Express.js
+
 MongoDB Integration
 
 I am looking forward to working on both guided and solo projects.
+
 ### Contacts
 You can reach me via my official email: erastusmueke221@gmail.com or cell:+254 712 539 049
