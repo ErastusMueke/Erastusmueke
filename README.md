@@ -45,4 +45,4 @@ MongoDB Integration
 I am looking forward to working on both guided and solo projects.
 
 # Contacts
-You can reach me via my official email: erastusmueke221@gmail.com or cell:+254 712 539 049
+You can reach me via my official email: erastusmueke221@gmail.com or cell:+254 712 539 049 or +254 731 656 149
