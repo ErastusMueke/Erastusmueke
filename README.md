@@ -6,7 +6,7 @@ I am currently learning computer programming and my main goal is to become a sof
 I enjoy solving complex problems and building efficient, scalable solutions.
 My goal is to create innovative and user-friendly applications that make a difference.
 # My course outline/ Projects
-Weeks 1-3
+### Weeks 1-3
 Introduction to Web Development and Linux
 
 Web Development Basics
