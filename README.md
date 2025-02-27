@@ -8,7 +8,7 @@
 <h2 id="about-me">About me 😁</h2>
   <p>
   <b>
-  I am a lover of technology 😍 passionate about front and back end development, Motivated and hardworking individual with a passion for software development seeks hands-on experience with a team of professionals.
+  I am a lover of technology 😍 and very passionate about front and back end development. I am a motivated and hardworking individual with a passion for software development who seeks hands-on experience with a team of professionals.
 Strong understanding of software development concepts and eagerness to learn new technologies.
   I like to learn new technology and update myself. i also like to contribute in open sources projects
 </b></p><p><b>working with you is already a pleasure for me 😇
