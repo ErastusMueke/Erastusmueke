@@ -15,7 +15,7 @@ Strong understanding of software development concepts and eagerness to learn new
 </b></p>
   <p></p>
 <ul>
-<p align="left">🎯 My Mission is to build a user friendly program and to make an impact to the users and also to improve my skills.<br>📚 I'm currently learning c++ and python. Looking forward to improve my skills <br>🤝  I'm open to collaborating on in new projects<br>✉️ You can contact me via: Erastusmueke221@mail.com</p>
+<p align="left">🎯 My Mission is to build a user friendly program and to make an impact to the users and also to improve my skills.<br>📚 I'm currently HTML, CSS and JAVA SCRIPT. Looking forward to improve my skills <br>🤝  I'm open to collaborating on new projects<br>✉️ You can contact me via: Erastusmueke221@mail.com</p>
 
 <h2 align="left">I code with</h2>
 
